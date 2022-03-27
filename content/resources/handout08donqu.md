@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 79b1ba26-8c0f-de5f-1d3c-fea8c5ff8286
 resourcetype: Document
 title: handout08donqu.pdf
 uid: 33daeb97-7720-73b3-6a57-39027a0b36ad

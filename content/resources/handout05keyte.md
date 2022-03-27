@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 79b1ba26-8c0f-de5f-1d3c-fea8c5ff8286
 resourcetype: Document
 title: handout05keyte.pdf
 uid: fd5a0aa5-e490-5138-ca7a-d2c03d7e429a

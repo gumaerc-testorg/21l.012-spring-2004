@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 79b1ba26-8c0f-de5f-1d3c-fea8c5ff8286
 resourcetype: Document
 title: handout02chain.pdf
 uid: e119afe8-2fcd-1be3-19cb-33291dfe9e27

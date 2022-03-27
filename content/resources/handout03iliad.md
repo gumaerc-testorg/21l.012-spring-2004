@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 79b1ba26-8c0f-de5f-1d3c-fea8c5ff8286
 resourcetype: Document
 title: handout03Iliad.pdf
 uid: 9e89b19c-a0e2-a85f-db40-d5ece4bcc170

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 79b1ba26-8c0f-de5f-1d3c-fea8c5ff8286
 resourcetype: Document
 title: handout06histor.pdf
 uid: 8713aa02-4f38-6d64-109b-0fbdf61c1e57

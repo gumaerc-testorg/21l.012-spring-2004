@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 6216b7e5-dc84-fa7d-8d7f-524ee45788e6
 resourcetype: Document
 title: quiz1memorizatio.pdf
 uid: 2976aef4-5a3d-f3e7-af03-ada1fc2d64bc
