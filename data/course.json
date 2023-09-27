@@ -53,8 +53,10 @@
     "website": "21l-012-forms-of-western-narrative-spring-2004"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Exams"
   ],
-  "site_uid": "fb87de15-56f8-4a68-af43-6d5c77e22c56",
+  "site_uid": "9db4a9ce-4a6a-4521-a1a6-c602fcba851f",
+  "site_short_id": "21l.012-spring-2004",
   "title": "Course Metadata"
 }
