@@ -2,6 +2,7 @@
 content_type: resource
 description: This handout contains notes for the reading assignment.
 file: /courses/21l-012-forms-of-western-narrative-spring-2004/ad2ff446c7d338e033b52eb7f25f5200_handout09reng.pdf
+file_size: 10052
 file_type: application/pdf
 learning_resource_types:
 - Readings
