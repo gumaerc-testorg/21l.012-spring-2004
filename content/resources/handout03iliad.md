@@ -2,6 +2,7 @@
 content_type: resource
 description: This handout contains notes for the reading assignment.
 file: /courses/21l-012-forms-of-western-narrative-spring-2004/9e89b19ca0e2a85fdb40d5ece4bcc170_handout03Iliad.pdf
+file_size: 85917
 file_type: application/pdf
 learning_resource_types:
 - Readings
