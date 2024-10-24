@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains a list of key terms.
-file: /courses/21l-012-forms-of-western-narrative-spring-2004/2fbf7033b37976641cfdb50ad4d424f3_handout10techni.pdf
+file: /ol-ocw-studio-app/courses/21l-012-forms-of-western-narrative-spring-2004/2fbf7033b37976641cfdb50ad4d424f3_handout10techni.pdf
 file_size: 9034
 file_type: application/pdf
 learning_resource_types:
