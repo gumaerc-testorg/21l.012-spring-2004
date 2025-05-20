@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains notes for the reading assignment.
-file: /ol-ocw-studio-app/courses/21l-012-forms-of-western-narrative-spring-2004/31084149800566224790bff51482cfe1_handout07cervan.pdf
+file: /courses/21l-012-forms-of-western-narrative-spring-2004/31084149800566224790bff51482cfe1_handout07cervan.pdf
 file_size: 20689
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam questions.
-file: /ol-ocw-studio-app/courses/21l-012-forms-of-western-narrative-spring-2004/f920f08cb3110eb4714b80c0adf46afd_finalexam.pdf
+file: /courses/21l-012-forms-of-western-narrative-spring-2004/f920f08cb3110eb4714b80c0adf46afd_finalexam.pdf
 file_size: 44585
 file_type: application/pdf
 learning_resource_types:
