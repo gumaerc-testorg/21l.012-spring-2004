@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Text for memorization exercise.
-file: /courses/21l-012-forms-of-western-narrative-spring-2004/2976aef45a3df3e7af03ada1fc2d64bc_quiz1memorizatio.pdf
+file: /ol-ocw-studio-app/courses/21l-012-forms-of-western-narrative-spring-2004/2976aef45a3df3e7af03ada1fc2d64bc_quiz1memorizatio.pdf
 file_size: 9463
 file_type: application/pdf
 learning_resource_types:
