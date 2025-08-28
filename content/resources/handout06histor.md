@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains notes supporting for the reading assignment.
-file: /courses/21l-012-forms-of-western-narrative-spring-2004/8713aa024f386d64109b0fbdf61c1e57_handout06histor.pdf
+file: /ol-ocw-studio-app/courses/21l-012-forms-of-western-narrative-spring-2004/8713aa024f386d64109b0fbdf61c1e57_handout06histor.pdf
 file_size: 150918
 file_type: application/pdf
 learning_resource_types:
